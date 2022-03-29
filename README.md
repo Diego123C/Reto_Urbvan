@@ -4,14 +4,14 @@ Para este reto se solicito lo siguiente:
 
 I. Base de datos
 Usando los archivos .csv que le proporcionamos:
+
   ❖ Hacer una base de datos PostgreSQL.
   ❖ Normalice la BD (tanto como considere necesario).
 
 II. Inteligencia de negocios
 Para cada año nos gustaría saber:
   1. Las estaciones más populares.
-  2. Las áreas más populares (barrios en NY) [BONIFICACIÓN: si nos proporciona un
-     geovisualización de los datos].
+  2. Las áreas más populares (barrios en NY) [BONIFICACIÓN: si nos proporciona una geovisualización de los datos].
   3. Localizar los lugares de mayor interés y que potencialmente podrían influir en la movilidad
   4. La tendencia para cada día de la semana.
   5. Cuánto dura cada viaje para un día y área determinados.
