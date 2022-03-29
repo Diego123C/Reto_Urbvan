@@ -6,6 +6,7 @@ I. Base de datos
 Usando los archivos .csv que le proporcionamos:
 
   ❖ Hacer una base de datos PostgreSQL.
+  
   ❖ Normalice la BD (tanto como considere necesario).
 
 II. Inteligencia de negocios
